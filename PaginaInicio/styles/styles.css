@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+main{
+    display: flex;
+}
+
+.titulo{
+    color: green;
+    height: 5vh;
+}
+
+.menu{
+    margin-top: 2vh;
+    background-color: rgb(76, 161, 76);
+    padding: 20px;
+    color: white;
+    height: 5vh;
+}
+
+h3{
+    padding: 10px;
+}
+
+.contenido{
+    height: 61.9vh;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
