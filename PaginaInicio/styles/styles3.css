@@ -34,7 +34,20 @@ footer{
     justify-content: center;
     align-items: center;
 }
+.sobreMi{
+    background-color: rgb(47, 126, 47);
+    color: beige;
+    margin-top: 2px;
+}
 
-img{
-    width: 60vw;
+.misGustos{
+    background-color: rgb(47, 126, 47);
+    color: beige;
+    margin-top: 2px;
+}
+
+.misEstudios{
+    background-color: rgb(47, 126, 47);
+    color: beige;
+    margin-top: 2px;
 }
